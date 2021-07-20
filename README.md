@@ -1,7 +1,7 @@
 # LabelGlandula
 labelGlandula is a graphical image tool for automatically detecting stomata in images. In addition, labelGlandula also provides the necessary tools to correct the detections. labelGlandula is based on the [LabelImg tool](https://github.com/tzutalin/labelImg).
 
-![TestTimeAugmentation](imagen/prueba1.png)
+![labelGlandula](imagen/labelGlandula.png)
 
 ## Installation and Requirements
 
