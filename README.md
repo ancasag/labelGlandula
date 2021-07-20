@@ -11,8 +11,8 @@ LabelGlandula can be run on Linux, Windows and macOS.
 LabelGlandula can be installed both in Linux and Windows using pip.
 
 ``` 
-pip install labelStoma
-labelStoma
+pip install labelGlandula
+labelGlandula
 ``` 
 
 ### Build from source
@@ -35,7 +35,7 @@ pip3 install -r requirements.txt
 make qt5py3
 ```
 
-3. Run labelStoma:
+3. Run labelGlandula:
 ```bash
 python3 labelGlandula.py
 ```
